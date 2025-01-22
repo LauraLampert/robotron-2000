@@ -19,8 +19,8 @@ Cada ajuste afeta os atributos do robô, criando uma experiência interativa e d
 
 ## Funcionalidades Implementadas com JavaScript
 1. Personalização de Características:
-   -Permitir ao usuário ajustar atributos como força, poder, energia e velocidade do robô.
-   -Alterar a cor do robô dinamicamente.
+   - Permitir ao usuário ajustar atributos como força, poder, energia e velocidade do robô.
+   - Alterar a cor do robô dinamicamente.
 2. Interatividade:
    - Implementação de eventos de clique para personalizar o robô.
    - Cálculos automáticos para exibir os novos valores das características.
